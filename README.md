@@ -2,7 +2,7 @@
 
 This tiny program tracks macOS input source per application. Created it after I got really tired of typing "нпм старт" in terminal after switching from a Skype chat window.
 
-## Build
+## Instructions
 
 1. Make sure you have XCode command line tools installed.
 2. Clone the repo
